@@ -1,3 +1,3 @@
 # lab7
-##Vinaev
-###23_z
+## Vinaev
+### 23_z
